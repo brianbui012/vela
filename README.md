@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/9aa76ede-f57f-4625-a27d-df5769c86f5d
+
 # 🧪 Demo Admin Access
 
 > ⚠️ For demo purposes only — an admin account is provided to give users access to features normal users cannot usually access, such as creating new products and viewing analytics.
