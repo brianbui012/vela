@@ -66,16 +66,14 @@ const GiftCouponCard = () => {
       {isCouponApplied && coupon && (
         <div className="mt-4">
           <h3 className="text-lg font-medium text-stone-300">Applied Coupon</h3>
-
           <p className="mt-2 text-sm text-stone-400">
             {coupon.code} - {coupon.discountPercentage}% off
           </p>
-
           <motion.button
             type="button"
             className="mt-2 flex w-full items-center justify-center rounded-lg bg-red-600 
-            px-5 py-2.5 text-sm font-medium text-white hover:bg-red-700 focus:outline-none
-             focus:ring-4 focus:ring-red-300"
+      px-5 py-2.5 text-sm font-medium text-white hover:bg-red-700 focus:outline-none
+      focus:ring-4 focus:ring-red-300"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             onClick={handleRemoveCoupon}
@@ -84,8 +82,7 @@ const GiftCouponCard = () => {
           </motion.button>
         </div>
       )}
-
-      {coupon && (
+      {coupon && !isCouponApplied && (
         <div className="mt-4">
           <h3 className="text-lg font-medium text-stone-300">
             Your Available Coupon:
