@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/9aa76ede-f57f-4625-a27d-df5769c86f5d
+<img width="800" height="434" alt="velagif" src="https://github.com/user-attachments/assets/9bf64dc1-1ea9-43fa-b936-78d60ffe60ba" />
 
 # 🧪 Demo Admin Access
 
