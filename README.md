@@ -3,6 +3,7 @@
 ⚠️ For demo purposes only - an admin account is provided to give users access to features normal users cannot usually access such as creating new products and viewing analystics
 
 Email: admin@gmail.com
+
 Password: password
 
 # 🛍️ E-Commerce Web Application
