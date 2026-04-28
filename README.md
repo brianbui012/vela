@@ -2,7 +2,8 @@
 
 > ⚠️ For demo purposes only — an admin account is provided to give users access to features normal users cannot usually access, such as creating new products and viewing analytics.
 
-**Live Website:** https://vela-g3kl.onrender.com/ 
+**Live Website:** https://vela-g3kl.onrender.com/
+
 **Email:** admin@gmail.com  
 **Password:** password
 
