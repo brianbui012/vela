@@ -1,14 +1,15 @@
-🧪 Demo Admin Access
+# 🧪 Demo Admin Access
 
-⚠️ For demo purposes only - an admin account is provided to give users access to features normal users cannot usually access such as creating new products and viewing analystics
+> ⚠️ For demo purposes only — an admin account is provided to give users access to features normal users cannot usually access, such as creating new products and viewing analytics.
 
-Email: admin@gmail.com
+**Email:** admin@gmail.com  
+**Password:** password
 
-Password: password
+---
 
 # 🛍️ E-Commerce Web Application
 
-A full-stack e-commerce platform built with **React**, **Node.js**, and **MongoDB**, featuring secure payments, product management, and admin analytics.
+A full-stack e-commerce platform built with **React**, **Node.js**, **MongoDB**, **Vite**, and **Redis**, featuring secure payments, product management, caching, and admin analytics.
 
 ---
 
@@ -16,28 +17,35 @@ A full-stack e-commerce platform built with **React**, **Node.js**, and **MongoD
 
 ### 🧑‍💻 User Functionality
 
-* User authentication & authorization (login/signup)
-* Browse and search products
-* Add items to cart and checkout securely
-* Apply coupon codes for discounts
-* Responsive and intuitive UI
+- User authentication & authorization (login/signup)
+- Browse and search products
+- Add items to cart and checkout securely
+- Apply coupon codes for discounts
+- Responsive and intuitive UI
+- Fast frontend performance powered by **Vite**
 
 ### 💳 Payments
 
-* Integrated with **Stripe** for secure and seamless payment processing
+- Integrated with **Stripe** for secure and seamless payment processing
 
 ### 🛒 Product Management
 
-* Add, edit, and delete products
-* Upload and manage product images via **Cloudinary**
-* Categorize and organize clothing and other items
+- Add, edit, and delete products
+- Upload and manage product images via **Cloudinary**
+- Categorize and organize clothing and other items
+
+### ⚡ Performance & Caching
+
+- Implemented **Redis** for caching frequently accessed data
+- Improved response times and reduced database load
+- Session storage and optimized backend performance
 
 ### 🛠️ Admin Dashboard
 
-* View revenue and sales analytics
-* Feature products on homepage carousel
-* Manage inventory and product listings
-* Monitor user activity
+- View revenue and sales analytics
+- Feature products on homepage carousel
+- Manage inventory and product listings
+- Monitor user activity
 
 ---
 
@@ -45,27 +53,29 @@ A full-stack e-commerce platform built with **React**, **Node.js**, and **MongoD
 
 ### Frontend
 
-* React
-* CSS / Tailwind
+- React
+- Vite
+- CSS / Tailwind
 
 ### Backend
 
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 ### Database
 
-* MongoDB (stores user and product data)
+- MongoDB (stores user and product data)
+- Redis (caching and session optimization)
 
 ### Cloud Services
 
-* Cloudinary (image storage)
-* Stripe (payments)
+- Cloudinary (image storage)
+- Stripe (payments)
 
 ---
 
 ## 🔐 Authentication & Authorization
 
-* Secure user authentication (JWT-based or session-based)
-* Role-based access control (Admin vs User)
-* Protected routes for sensitive operations
+- Secure user authentication (JWT-based or session-based)
+- Role-based access control (Admin vs User)
+- Protected routes for sensitive operations
